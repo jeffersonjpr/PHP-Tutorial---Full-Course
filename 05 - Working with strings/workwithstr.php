@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Data types</title>
+    <title>Working with strings</title>
 </head>
 
 <body>
